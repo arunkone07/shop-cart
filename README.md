@@ -7,4 +7,4 @@ Commands:
 - to install:  npm i
 - to run: npx expo start
 
-
+sb-rn contains stories created using storybook and has nothing to do with the shopping cart app.
